@@ -1,0 +1,14 @@
+[02/24/17 14:21:15] [INFO] Reading configuration file /Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/psiturk/tunnel/ngrok-config
+[02/24/17 14:21:15] [INFO] [client] Trusting root CAs: [assets/client/tls/ngrokroot.crt]
+[02/24/17 14:21:15] [INFO] [view] [web] Serving web interface on 127.0.0.1:4040
+[02/24/17 14:21:15] [INFO] Checking for update
+[02/24/17 14:21:15] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[02/24/17 14:21:15] [INFO] Waiting 1 seconds before reconnecting
+[02/24/17 14:21:16] [INFO] No update available
+[02/24/17 14:21:16] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[02/24/17 14:21:16] [INFO] Waiting 2 seconds before reconnecting
+[02/24/17 14:21:18] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[02/24/17 14:21:18] [INFO] Waiting 4 seconds before reconnecting
+[02/24/17 14:21:22] [EROR] control recovering from failure dial tcp 173.236.137.204:4443: connection refused
+[02/24/17 14:21:22] [INFO] Waiting 8 seconds before reconnecting
+[2017-02-27 09:52:53 -0800] [2076] [CRITICAL] WORKER TIMEOUT (pid:2080)
